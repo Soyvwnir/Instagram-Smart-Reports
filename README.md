@@ -6,7 +6,7 @@
   <img src="toolv1.GIF" alt="animated" />
   <h2>SM Report Bot</h2>
   <p>
-    It was developed and tested by a professional developer for 2 year and presented to you.
+    It was developed and tested by a professional developer for 2 year and presented to you.  <br/>
     ⭐ You can access the Tool <a href="https://t.me/Trix7R1X_Bot">HERE.</a>
     <br/>
   </p>
